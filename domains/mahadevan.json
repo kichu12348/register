@@ -1,12 +1,12 @@
 {
-    "owner": {
-        "username": "kichu12348",
-        "email": "rmahadevan574@gmail.com"
-    },
-    "records": {
-        "NS": [
-            "casey.ns.cloudflare.com",
-            "harmony.ns.cloudflare.com"
-        ]
-    }
+  "owner": {
+    "username": "kichu12348",
+    "email": "rmahadevan574@gmail.com"
+  },
+  "records": {
+    "NS": [
+      "casey.ns.cloudflare.com",
+      "harmony.ns.cloudflare.com"
+    ]
+  }
 }
